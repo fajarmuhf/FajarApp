@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596186456858",
+    "project_id": "fajarapp-1c401",
+    "storage_bucket": "fajarapp-1c401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596186456858:android:6310ef73e6b6304ca4c2a3",
+        "android_client_info": {
+          "package_name": "com.fmfstudio.fajarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596186456858-j2r80qmfkjp0ttav5g9k8l4nhr33q2ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fmfstudio.fajarapp",
+            "certificate_hash": "4c43e4c409e9df08786b1bf24e167a9877a627a6"
+          }
+        },
+        {
+          "client_id": "596186456858-pmvbi6sjsn4g2c8pqo0nkuo52pnleneo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoyi31x7OuTA7s4WZQwf1nhhGVznZL7LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596186456858-pmvbi6sjsn4g2c8pqo0nkuo52pnleneo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
